@@ -1,7 +1,14 @@
 # Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
 ## Aim :
 To Execute a program for pick and place in doosan industrial cobot using DRL studio
-##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
+
+## Components Required:
+
+1.Doosan Industrial Collaborative Robot, 
+
+2 jaw gripper ,
+
+3.*DRL (Doosan Robotics Language) Studio Software
 
 
 ## Theory 
