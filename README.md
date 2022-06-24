@@ -40,17 +40,16 @@ Procedure:
 
 
 ## Program 
-// Roll no:
 
-//Name:
-MoveJ ................
+![2](https://user-images.githubusercontent.com/74660507/175454530-6bf50d16-5541-4add-a617-3bcdc03e51ea.jpeg)
+
 
 ## output : 
+
+![1](https://user-images.githubusercontent.com/74660507/175454442-e723be1f-1c43-4c07-97d7-835787d1e83d.jpeg)
 
 
 ## Results: 
 
-
-
-
+Thus, program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed.
 
