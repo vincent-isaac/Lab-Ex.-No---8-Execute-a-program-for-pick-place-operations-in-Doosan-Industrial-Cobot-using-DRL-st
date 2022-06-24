@@ -1,6 +1,6 @@
 # Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
 ## Aim :
-To Execute a program for pick and place in doosan industrial cobot using DRL studio
+To Execute a program for pick and place in doosan industrial Collaborative Robot using DRL Studio Software
 
 ## Components Required:
 
@@ -58,4 +58,4 @@ Procedure:
 
 ## Results: 
 
-Thus, program for pick and place in doosan industrial cobot using DRL studio has been successfully completed
+Thus, program for pick and place in doosan industrial Collaborative Robot using DRL Studio Software has been successfully completed
